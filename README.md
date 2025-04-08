@@ -24,3 +24,4 @@ This project explores the **1-D Transverse Field Ising Model (TFIM)**—a founda
   S_A^{n=2} = \frac{c}{3} \log\left(\frac{L}{\pi} \sin\left(\frac{\pi l}{L}\right)\right) + \text{const.}
   $$
 </p>
+The expected central charge is 0.5, while, the simulation result is about 0.519 for the system size L = 24 (1-D Ising model chain). It tends to approcach the theoretical result when we simulate a large system size. 
