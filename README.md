@@ -17,4 +17,6 @@ This project explores the **1-D Transverse Field Ising Model (TFIM)**—a founda
 - imaginary time Replica trick (for Rényi entropy calculation)
 - Visualization of entropy scaling and phase transition behavior
 
-
+## Significant Result
+- The simulation result with the transformed X axis match the theoretical result from the Conformal Field Theory (CFT), 
+$S_A^{n=2} = \frac{c}{3} \log\left(\frac{L}{\pi} \sin\left(\frac{\pi l}{L}\right)\right) + \text{const.}$
